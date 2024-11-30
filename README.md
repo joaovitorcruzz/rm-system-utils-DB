@@ -13,11 +13,11 @@ Certifique-se de que o Docker Desktop esteja aberto. Em seguida, execute o coman
 
 ATENÇÃO: foi criado apenas um docker para o sistema, favor rodar o comando abaixo estando na estrutura correta
 
--rm-system-backend
--rm-system-frontend
--docker-compose  <-----
--pictures
--readme.md
+###-rm-system-backend
+###-rm-system-frontend
+###-docker-compose  <-----
+###-pictures
+###-readme.md
 
 bash
 Copiar código
